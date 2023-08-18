@@ -13,12 +13,17 @@ Bloody Well is the latest dataset for the agglutination reaction classification 
 
 Full dataset is not available for public download. You can download only the test part of the dataset, which includes 539 wells and was balanced by reagents with full dataset. It is available here:
 * [download ref]
+
 The markup file (test_dataset.json) is in this repository.
+
 # Usage
+
 For testing, use the following command:
+
 ```
 python3 code/test_nn.py -ctest <path_to_test_config>
 ```
+
 test_config.json has the following options:
 * markup: markup file path.
 * dataset: path to dataset.
