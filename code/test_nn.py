@@ -9,7 +9,6 @@ import argparse
 from dataset import DatasetGenerator, ToTensor
 import json
 from test import test
-from dashboard import save_test_info
 from sklearn import metrics 
 import csv
 
@@ -29,9 +28,9 @@ def parse_args():
 
 
 def get_net_model(net_arch_name):
-    if "efficientnet" in net_arch_name:
+    if "EfficientNetV2L" in net_arch_name:
         model = efficientnet_v2_l(num_classes=1)
-    elif "densenet" in net_arch_name:
+    elif "DenseNet201" in net_arch_name:
         model = densenet201(num_classes=1)
     
     return model, [ToTensor()]
@@ -46,7 +45,9 @@ def test_net(device, net, testloader, thr, print_metrics):
     tn, fp, fn, tp = metrics.confusion_matrix(y_true, y_pred).ravel()
     acc = metrics.accuracy_score(y_true, y_pred)
 
-    test_info = save_test_info(thr=thr, acc=acc)
+    test_info = {}
+    test_info["threshold"] = thr
+    test_info["accuracy"] = acc
     test_info["tn"] = tn
     test_info["fp"] = fp
     test_info["fn"] = fn
@@ -74,14 +75,14 @@ def validation_check(*args):
 if __name__ == "__main__":
     config = parse_args()
     net_name = config["net_name"]
-    path2dataset = config["dataset"]
-    net_path = config["net_path"]
-    test_markup = config["markup"]
+    path2dataset = Path(config["dataset"])
+    net_path = Path(config["net_path"])
+    test_markup = Path(config["markup"])
     threshold = config["threshold"]
     
     validation_check(path2dataset, net_path, test_markup)
     device = torch.device(config["device_type"] if torch.cuda.is_available() else "cpu")  
-    net, transforms_list = get_net_model(net_name)
+    net, transforms_list = get_net_model(config["architecture"])
     testloader = get_loader(path2dataset, test_markup, transforms_list)
 
     test_info = test_net(device, net, testloader, threshold, config["print_comments"])
@@ -90,7 +91,7 @@ if __name__ == "__main__":
         for k in test_info.keys():
             print(f"{k}: {test_info[k]}")
 
-    with open('results.csv', 'a+', newline='') as csvfile:
+    with open(config["results"], 'a+', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
                                 quotechar='\"', quoting=csv.QUOTE_MINIMAL)
         writer.writerow([net_name, test_info["threshold"], test_info["accuracy"],\

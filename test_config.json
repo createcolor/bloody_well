@@ -1,9 +1,11 @@
 {   
     "print_comments": true,
+    "threshold": 0.8,
     "device_type": "cuda:0",
-    "markup" : "test_dataset.json",
-    "dataset": "test_dataset/",
-    "net_path": "models/example_net",
-    "net_name": "densenet201",
-    "threshold": 0.5
+    "markup" : "hiss_rep/test_dataset.json",
+    "dataset": "cloud_hiss/test_dataset/",
+    "net_path": "cloud_hiss/models/EfficientNetV2L/EfficientNetV2L_130ep_7",
+    "net_name": "EfficientNetV2L",
+    "architecture": "EfficientNetV2L",
+    "results": "hiss_rep/results.csv"
 }
