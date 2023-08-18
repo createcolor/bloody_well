@@ -19,7 +19,7 @@ The markup file (test_dataset.json) is in this repository. It is a .json file wi
 * gt_result: ground truth. The absence of an agglutination reaction is indicated as 0, the presence of a reaction as 1.
 * reagent: type of reagent used in this well.
 
-# Usage
+# Testing
 
 For testing, use the following command:
 
