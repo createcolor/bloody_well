@@ -1,0 +1,4 @@
+{   
+    "print_comments": true,
+    "device_type": "cuda:0"
+}
