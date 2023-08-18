@@ -15,7 +15,7 @@ Bloody Well is the latest dataset for the agglutination reaction classification 
 Full dataset is not available for public download. You can download only the test part of the dataset, which includes 539 wells and was balanced by reagents with full dataset. It is available here:
 * [download ref]
 
-The markup file (test_dataset.json) is in this repository. It is a .json file with a dictionary inside, where each image name with a hole corresponds to information about it:
+The markup file (test_dataset.json) is in this repository. It is a .json file with a dictionary inside, where each image name corresponds to information about it:
 * gt_result: ground truth. The absence of an agglutination reaction is indicated as 0, the presence of a reaction as 1.
 * reagent: type of reagent used in this well.
 
