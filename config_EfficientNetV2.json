@@ -1,10 +1,10 @@
 {   
     "print_comments": true,
-    "threshold": 0.8,
+    "threshold": 0.9,
     "device_type": "cuda:0",
     "markup" : "test_dataset.json",
-    "dataset": "test_dataset/",
-    "net_path": "models/EfficientNetV2L/EfficientNetV2L_130ep_7",
+    "dataset": "../cloud_hiss/test_dataset/",
+    "net_path": "../cloud_hiss/models/EfficientNetV2L/EfficientNetV2L_130ep_7",
     "net_name": "EfficientNetV2L",
     "architecture": "EfficientNetV2L",
     "results": "results.csv"
