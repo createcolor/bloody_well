@@ -6,8 +6,8 @@ def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
 def run_net(device, net, testloader, thr=0.5):
-    y_true, y_pred, y_pred_outputs = [], [], []
-    FP_imgs, FN_imgs = {}, {}
+    y_true, y_pred = [], []
+
     net.eval()
     with torch.no_grad():
         for data in testloader:
@@ -17,7 +17,6 @@ def run_net(device, net, testloader, thr=0.5):
             outputs = net(imgs)
             outputs = outputs.cpu().detach().numpy()[..., 0]
             outputs = sigmoid(outputs)
-            y_pred_outputs += list(outputs)
 
             cur_pred = np.where(outputs >= thr, 1, 0)
             y_pred += list(cur_pred)
@@ -25,11 +24,11 @@ def run_net(device, net, testloader, thr=0.5):
             labels = labels.cpu().detach().numpy().astype(int)
             y_true += list(labels)
     
-    return y_true, y_pred, y_pred_outputs, FP_imgs, FN_imgs
+    return y_true, y_pred
 
 def test(device, net, testloader, threshold=0.5, print_metrics=True):
     
-    y_true, y_pred, _, FP_imgs, FN_imgs = \
+    y_true, y_pred = \
         run_net(device, net, testloader, threshold)
     
     if print_metrics:

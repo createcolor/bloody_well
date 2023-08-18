@@ -1,4 +1,9 @@
 {   
     "print_comments": true,
-    "device_type": "cuda:0"
+    "device_type": "cuda:0",
+    "markup" : "test_dataset.json",
+    "dataset": "test_dataset/",
+    "net_path": "models/example_net",
+    "net_name": "densenet201",
+    "threshold": 0.5
 }

@@ -19,24 +19,13 @@ def parse_args():
         'Evaluate estimators on the synthesized test dataset')
     parser.add_argument('-ctest', '--test_config', default=Path('test_config.json'), 
         help='configuration file')
-    parser.add_argument('-r', '--dataset_dir', default=Path(
-        "../datasets/alvs_dataset/"), type=Path, \
-        help='Path to images')
-    parser.add_argument('-tm', '--test_markup', default=Path(
-        "markup/test_dataset.json"), type=Path, help='Path to test dataset markup')
-    parser.add_argument('-np', '--net_path', type=Path, \
-        default=Path("models/dataset_aug7_002_240ep_0"), help='Path to net')
-    parser.add_argument('-n', '--net_name', type=str, \
-        default="mobilenet_v3_large", help='Net name')
-    parser.add_argument('-thr', '--threshold', default=0.5, type=float, 
-                        help='The best threshold')
 
     args = parser.parse_args()
 
     with open(args.test_config, "r") as config_file:
         config = json.load(config_file)
     
-    return args, config
+    return config
 
 
 def get_net_model(net_arch_name):
@@ -83,17 +72,19 @@ def validation_check(*args):
         assert arg.exists(), f"{arg} does not exist"
 
 if __name__ == "__main__":
-    args, config = parse_args()
-    net_name = args.net_name
-    path2dataset = args.dataset_dir
-    net_path = args.net_path
+    config = parse_args()
+    net_name = config["net_name"]
+    path2dataset = config["dataset"]
+    net_path = config["net_path"]
+    test_markup = config["markup"]
+    threshold = config["threshold"]
     
-    validation_check(path2dataset, net_path, args.test_markup)
+    validation_check(path2dataset, net_path, test_markup)
     device = torch.device(config["device_type"] if torch.cuda.is_available() else "cpu")  
-    net, transforms_list = get_net_model(args.net_name)
-    testloader = get_loader(path2dataset, args.test_markup, transforms_list)
+    net, transforms_list = get_net_model(net_name)
+    testloader = get_loader(path2dataset, test_markup, transforms_list)
 
-    test_info = test_net(device, net, testloader, args.threshold, config["print_comments"])
+    test_info = test_net(device, net, testloader, threshold, config["print_comments"])
 
     if config["print_comments"]:
         for k in test_info.keys():
@@ -102,6 +93,6 @@ if __name__ == "__main__":
     with open('results.csv', 'a+', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
                                 quotechar='\"', quoting=csv.QUOTE_MINIMAL)
-        writer.writerow([args.net_name, test_info["threshold"], test_info["accuracy"],\
+        writer.writerow([net_name, test_info["threshold"], test_info["accuracy"],\
                          test_info["recall"], test_info["precision"], test_info["tp"], \
                          test_info["tn"], test_info["fp"], test_info["fn"]])
