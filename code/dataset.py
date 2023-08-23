@@ -65,6 +65,7 @@ class DatasetGenerator(Dataset):
 
         sample["name"] = img_name
         sample["agg_type"] = np.array(self.markup_values[idx]["gt_result"], dtype = np.float32)
+        sample["reagent"] = self.markup_values[idx]["reagent"]
 
         if self.transform:
             sample = self.transform(sample)
@@ -76,10 +77,11 @@ class ToTensor(object):
     """Convert ndarrays in sample to Tensors."""
 
     def __call__(self, sample):
-        image, gt, name = sample['image'], sample['agg_type'], sample['name']
+        image, gt, name, reagent = sample['image'], sample['agg_type'], sample['name'], sample['reagent']
         image = image.transpose((2, 0, 1))
 
         ret_dict = {'image': torch.from_numpy(image),
                     'agg_type': torch.from_numpy(gt),
-                    "name": name}
+                    "name": name,
+                    'reagent': reagent}
         return ret_dict

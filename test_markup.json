@@ -1,3176 +1,3176 @@
 {
-	"01. CcEeCw_4_0.png": {
+	"01. CcEeCw_patient_0_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"01. CcEeCw_4_1.png": {
+	"01. CcEeCw_patient_0_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"01. CcEeCw_4_2.png": {
+	"01. CcEeCw_patient_0_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"01. CcEeCw_4_3.png": {
+	"01. CcEeCw_patient_0_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"01. CcEeCw_4_4.png": {
+	"01. CcEeCw_patient_0_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"01. abdOAB_5_0.png": {
+	"01. abdOAB_patient_1_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"01. abdOAB_5_1.png": {
+	"01. abdOAB_patient_1_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"01. abdOAB_5_2.png": {
+	"01. abdOAB_patient_1_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"01. abdOAB_5_3.png": {
+	"01. abdOAB_patient_1_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"01. abdOAB_5_4.png": {
+	"01. abdOAB_patient_1_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"01. abdOAB_5_5.png": {
+	"01. abdOAB_patient_1_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"02. CcEeCwKk_0_0.png": {
+	"02. CcEeCwKk_patient_2_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"02. CcEeCwKk_0_1.png": {
+	"02. CcEeCwKk_patient_2_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"02. CcEeCwKk_0_2.png": {
+	"02. CcEeCwKk_patient_2_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"02. CcEeCwKk_0_3.png": {
+	"02. CcEeCwKk_patient_2_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"02. CcEeCwKk_0_4.png": {
+	"02. CcEeCwKk_patient_2_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"02. CcEeCwKk_0_5.png": {
+	"02. CcEeCwKk_patient_2_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"02. CcEeCwKk_0_6.png": {
+	"02. CcEeCwKk_patient_2_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"02. abdOAB_0_0.png": {
+	"02. abdOAB_patient_3_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"02. abdOAB_0_1.png": {
+	"02. abdOAB_patient_3_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"02. abdOAB_0_2.png": {
+	"02. abdOAB_patient_3_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"02. abdOAB_0_3.png": {
+	"02. abdOAB_patient_3_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"02. abdOAB_0_4.png": {
+	"02. abdOAB_patient_3_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"02. abdOAB_0_5.png": {
+	"02. abdOAB_patient_3_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"03. CcEeCwKk_0_0.png": {
+	"03. CcEeCwKk_patient_4_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"03. CcEeCwKk_0_1.png": {
+	"03. CcEeCwKk_patient_4_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"03. CcEeCwKk_0_2.png": {
+	"03. CcEeCwKk_patient_4_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"03. CcEeCwKk_0_3.png": {
+	"03. CcEeCwKk_patient_4_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"03. CcEeCwKk_0_4.png": {
+	"03. CcEeCwKk_patient_4_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"03. CcEeCwKk_0_5.png": {
+	"03. CcEeCwKk_patient_4_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"03. CcEeCwKk_0_6.png": {
+	"03. CcEeCwKk_patient_4_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"03. abdOAB_5_0.png": {
+	"03. abdOAB_patient_5_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"03. abdOAB_5_1.png": {
+	"03. abdOAB_patient_5_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"03. abdOAB_5_2.png": {
+	"03. abdOAB_patient_5_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"03. abdOAB_5_3.png": {
+	"03. abdOAB_patient_5_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"03. abdOAB_5_4.png": {
+	"03. abdOAB_patient_5_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"03. abdOAB_5_5.png": {
+	"03. abdOAB_patient_5_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"04. CcEeCwKk_3_0.png": {
+	"04. CcEeCwKk_patient_6_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"04. CcEeCwKk_3_1.png": {
+	"04. CcEeCwKk_patient_6_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"04. CcEeCwKk_3_2.png": {
+	"04. CcEeCwKk_patient_6_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"04. CcEeCwKk_3_3.png": {
+	"04. CcEeCwKk_patient_6_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"04. CcEeCwKk_3_4.png": {
+	"04. CcEeCwKk_patient_6_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"04. CcEeCwKk_3_5.png": {
+	"04. CcEeCwKk_patient_6_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"04. CcEeCwKk_3_6.png": {
+	"04. CcEeCwKk_patient_6_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 3,
-		"reagent_idx": 6
+		"row_idx": 3,
+		"col_idx": 6
 	},
-	"04. abdOAB_0_0.png": {
+	"04. abdOAB_patient_7_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"04. abdOAB_0_1.png": {
+	"04. abdOAB_patient_7_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"04. abdOAB_0_2.png": {
+	"04. abdOAB_patient_7_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"04. abdOAB_0_3.png": {
+	"04. abdOAB_patient_7_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"04. abdOAB_0_4.png": {
+	"04. abdOAB_patient_7_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"04. abdOAB_0_5.png": {
+	"04. abdOAB_patient_7_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"05. CcEeCwKk_0_0.png": {
+	"05. CcEeCwKk_patient_8_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"05. CcEeCwKk_0_1.png": {
+	"05. CcEeCwKk_patient_8_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"05. CcEeCwKk_0_2.png": {
+	"05. CcEeCwKk_patient_8_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"05. CcEeCwKk_0_3.png": {
+	"05. CcEeCwKk_patient_8_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"05. CcEeCwKk_0_4.png": {
+	"05. CcEeCwKk_patient_8_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"05. CcEeCwKk_0_5.png": {
+	"05. CcEeCwKk_patient_8_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"05. CcEeCwKk_0_6.png": {
+	"05. CcEeCwKk_patient_8_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"05. abdOAB_2_0.png": {
+	"05. abdOAB_patient_9_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"05. abdOAB_2_1.png": {
+	"05. abdOAB_patient_9_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"05. abdOAB_2_2.png": {
+	"05. abdOAB_patient_9_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"05. abdOAB_2_3.png": {
+	"05. abdOAB_patient_9_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"05. abdOAB_2_4.png": {
+	"05. abdOAB_patient_9_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"05. abdOAB_2_5.png": {
+	"05. abdOAB_patient_9_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"06. CcEeCwKk_4_0.png": {
+	"06. CcEeCwKk_patient_10_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"06. CcEeCwKk_4_1.png": {
+	"06. CcEeCwKk_patient_10_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"06. CcEeCwKk_4_2.png": {
+	"06. CcEeCwKk_patient_10_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"06. CcEeCwKk_4_3.png": {
+	"06. CcEeCwKk_patient_10_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"06. CcEeCwKk_4_4.png": {
+	"06. CcEeCwKk_patient_10_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"06. CcEeCwKk_4_5.png": {
+	"06. CcEeCwKk_patient_10_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"06. CcEeCwKk_4_6.png": {
+	"06. CcEeCwKk_patient_10_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 4,
-		"reagent_idx": 6
+		"row_idx": 4,
+		"col_idx": 6
 	},
-	"06. abdOAB_4_0.png": {
+	"06. abdOAB_patient_11_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"06. abdOAB_4_1.png": {
+	"06. abdOAB_patient_11_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"06. abdOAB_4_2.png": {
+	"06. abdOAB_patient_11_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"06. abdOAB_4_3.png": {
+	"06. abdOAB_patient_11_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"06. abdOAB_4_4.png": {
+	"06. abdOAB_patient_11_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"06. abdOAB_4_5.png": {
+	"06. abdOAB_patient_11_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"07. CcEeCwKk_0_0.png": {
+	"07. CcEeCwKk_patient_12_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"07. CcEeCwKk_0_1.png": {
+	"07. CcEeCwKk_patient_12_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"07. CcEeCwKk_0_2.png": {
+	"07. CcEeCwKk_patient_12_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"07. CcEeCwKk_0_3.png": {
+	"07. CcEeCwKk_patient_12_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"07. CcEeCwKk_0_4.png": {
+	"07. CcEeCwKk_patient_12_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"07. CcEeCwKk_0_5.png": {
+	"07. CcEeCwKk_patient_12_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"07. CcEeCwKk_0_6.png": {
+	"07. CcEeCwKk_patient_12_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"07. abdOAB_3_0.png": {
+	"07. abdOAB_patient_13_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"07. abdOAB_3_1.png": {
+	"07. abdOAB_patient_13_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"07. abdOAB_3_2.png": {
+	"07. abdOAB_patient_13_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"07. abdOAB_3_3.png": {
+	"07. abdOAB_patient_13_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"07. abdOAB_3_4.png": {
+	"07. abdOAB_patient_13_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"07. abdOAB_3_5.png": {
+	"07. abdOAB_patient_13_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"08. CcEeCwKk_0_0.png": {
+	"08. CcEeCwKk_patient_14_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"08. CcEeCwKk_0_1.png": {
+	"08. CcEeCwKk_patient_14_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"08. CcEeCwKk_0_2.png": {
+	"08. CcEeCwKk_patient_14_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"08. CcEeCwKk_0_3.png": {
+	"08. CcEeCwKk_patient_14_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"08. CcEeCwKk_0_4.png": {
+	"08. CcEeCwKk_patient_14_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"08. CcEeCwKk_0_5.png": {
+	"08. CcEeCwKk_patient_14_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"08. CcEeCwKk_0_6.png": {
+	"08. CcEeCwKk_patient_14_k.png": {
 		"gt_result": 0,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"08. abdOAB_2_0.png": {
+	"08. abdOAB_patient_15_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"08. abdOAB_2_1.png": {
+	"08. abdOAB_patient_15_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"08. abdOAB_2_2.png": {
+	"08. abdOAB_patient_15_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"08. abdOAB_2_3.png": {
+	"08. abdOAB_patient_15_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"08. abdOAB_2_4.png": {
+	"08. abdOAB_patient_15_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"08. abdOAB_2_5.png": {
+	"08. abdOAB_patient_15_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"09. CcEeCwKk_4_0.png": {
+	"09. CcEeCwKk_patient_16_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"09. CcEeCwKk_4_1.png": {
+	"09. CcEeCwKk_patient_16_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"09. CcEeCwKk_4_2.png": {
+	"09. CcEeCwKk_patient_16_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"09. CcEeCwKk_4_3.png": {
+	"09. CcEeCwKk_patient_16_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"09. CcEeCwKk_4_4.png": {
+	"09. CcEeCwKk_patient_16_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"09. CcEeCwKk_4_5.png": {
+	"09. CcEeCwKk_patient_16_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"09. CcEeCwKk_4_6.png": {
+	"09. CcEeCwKk_patient_16_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 4,
-		"reagent_idx": 6
+		"row_idx": 4,
+		"col_idx": 6
 	},
-	"09. abdOAB_4_0.png": {
+	"09. abdOAB_patient_17_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"09. abdOAB_4_1.png": {
+	"09. abdOAB_patient_17_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"09. abdOAB_4_2.png": {
+	"09. abdOAB_patient_17_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"09. abdOAB_4_3.png": {
+	"09. abdOAB_patient_17_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"09. abdOAB_4_4.png": {
+	"09. abdOAB_patient_17_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"09. abdOAB_4_5.png": {
+	"09. abdOAB_patient_17_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"10. CcEeCwKk_2_0.png": {
+	"10. CcEeCwKk_patient_18_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"10. CcEeCwKk_2_1.png": {
+	"10. CcEeCwKk_patient_18_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"10. CcEeCwKk_2_2.png": {
+	"10. CcEeCwKk_patient_18_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"10. CcEeCwKk_2_3.png": {
+	"10. CcEeCwKk_patient_18_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"10. CcEeCwKk_2_4.png": {
+	"10. CcEeCwKk_patient_18_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"10. CcEeCwKk_2_5.png": {
+	"10. CcEeCwKk_patient_18_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"10. CcEeCwKk_2_6.png": {
+	"10. CcEeCwKk_patient_18_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 2,
-		"reagent_idx": 6
+		"row_idx": 2,
+		"col_idx": 6
 	},
-	"10. abdOAB_3_0.png": {
+	"10. abdOAB_patient_19_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"10. abdOAB_3_1.png": {
+	"10. abdOAB_patient_19_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"10. abdOAB_3_2.png": {
+	"10. abdOAB_patient_19_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"10. abdOAB_3_3.png": {
+	"10. abdOAB_patient_19_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"10. abdOAB_3_4.png": {
+	"10. abdOAB_patient_19_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"10. abdOAB_3_5.png": {
+	"10. abdOAB_patient_19_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"2022.04.14_004_map_0_0.png": {
+	"2022.04.14_004_map_patient_20_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.04.14_004_map_0_1.png": {
+	"2022.04.14_004_map_patient_20_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.04.14_004_map_0_2.png": {
+	"2022.04.14_004_map_patient_20_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.04.14_004_map_0_3.png": {
+	"2022.04.14_004_map_patient_20_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.10.20_003_map_0_0.png": {
+	"2022.10.20_003_map_patient_21_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.10.20_003_map_0_1.png": {
+	"2022.10.20_003_map_patient_21_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.10.20_003_map_0_2.png": {
+	"2022.10.20_003_map_patient_21_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.10.20_003_map_0_3.png": {
+	"2022.10.20_003_map_patient_21_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.10.20_003_map_0_4.png": {
+	"2022.10.20_003_map_patient_21_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"2022.10.20_003_map_0_5.png": {
+	"2022.10.20_003_map_patient_21_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2022.10.20_003_map_0_6.png": {
+	"2022.10.20_003_map_patient_21_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"2019.08.22_001_map_0_0.png": {
+	"2019.08.22_001_map_patient_22_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2019.08.22_001_map_0_1.png": {
+	"2019.08.22_001_map_patient_22_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2019.08.22_001_map_0_2.png": {
+	"2019.08.22_001_map_patient_22_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2019.08.22_001_map_0_3.png": {
+	"2019.08.22_001_map_patient_22_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2019.08.22_001_map_0_4.png": {
+	"2019.08.22_001_map_patient_22_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"2019.08.22_001_map_0_5.png": {
+	"2019.08.22_001_map_patient_22_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2019.08.22_001_map_0_6.png": {
+	"2019.08.22_001_map_patient_22_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"2022.04.13_001_map_2_0.png": {
+	"2022.04.13_001_map_patient_23_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"2022.04.13_001_map_2_1.png": {
+	"2022.04.13_001_map_patient_23_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"2022.04.13_001_map_2_2.png": {
+	"2022.04.13_001_map_patient_23_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"2022.04.13_001_map_2_3.png": {
+	"2022.04.13_001_map_patient_23_K.png": {
 		"gt_result": 1,
 		"reagent": "K",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"2022.10.26_008_1_map_2_0.png": {
+	"2022.10.26_008_1_map_patient_24_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"2022.10.26_008_1_map_2_1.png": {
+	"2022.10.26_008_1_map_patient_24_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"2022.10.26_008_1_map_2_2.png": {
+	"2022.10.26_008_1_map_patient_24_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"2022.10.26_008_1_map_2_3.png": {
+	"2022.10.26_008_1_map_patient_24_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"2022.10.26_008_1_map_2_4.png": {
+	"2022.10.26_008_1_map_patient_24_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"2022.10.26_008_1_map_2_5.png": {
+	"2022.10.26_008_1_map_patient_24_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"2022.10.26_003_1_map_3_0.png": {
+	"2022.10.26_003_1_map_patient_25_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"2022.10.26_003_1_map_3_1.png": {
+	"2022.10.26_003_1_map_patient_25_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"2022.10.26_003_1_map_3_2.png": {
+	"2022.10.26_003_1_map_patient_25_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"2022.10.26_003_1_map_3_3.png": {
+	"2022.10.26_003_1_map_patient_25_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"2022.10.26_003_1_map_3_4.png": {
+	"2022.10.26_003_1_map_patient_25_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"2022.10.26_003_1_map_3_5.png": {
+	"2022.10.26_003_1_map_patient_25_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"2022.10.26_004_2_map_1_5.png": {
+	"2022.10.26_004_2_map_patient_26_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 1,
-		"reagent_idx": 5
+		"row_idx": 1,
+		"col_idx": 5
 	},
-	"2022.10.26_010_2_map_0_5.png": {
+	"2022.10.26_010_2_map_patient_27_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2022.04.13_004_map_3_0.png": {
+	"2022.04.13_004_map_patient_28_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"2022.04.13_004_map_3_1.png": {
+	"2022.04.13_004_map_patient_28_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"2022.04.13_004_map_3_2.png": {
+	"2022.04.13_004_map_patient_28_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"2022.04.13_004_map_3_3.png": {
+	"2022.04.13_004_map_patient_28_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"2022.10.26_003_2_map_0_5.png": {
+	"2022.10.26_003_2_map_patient_29_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2022.04.14_005_map_2_0.png": {
+	"2022.04.14_005_map_patient_30_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"2022.04.14_005_map_2_1.png": {
+	"2022.04.14_005_map_patient_30_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"2022.04.14_005_map_2_2.png": {
+	"2022.04.14_005_map_patient_30_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"2022.04.14_005_map_2_3.png": {
+	"2022.04.14_005_map_patient_30_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"2022.06.01_002_map_0_0.png": {
+	"2022.06.01_002_map_patient_31_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.06.01_002_map_0_1.png": {
+	"2022.06.01_002_map_patient_31_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.06.01_002_map_0_3.png": {
+	"2022.06.01_002_map_patient_31_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.06.01_002_map_0_4.png": {
+	"2022.06.01_002_map_patient_31_0.9% NaCl.png": {
 		"gt_result": 0,
 		"reagent": "0.9% NaCl",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"2022.04.13_005_map_2_0.png": {
+	"2022.04.13_005_map_patient_32_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"2022.04.13_005_map_2_1.png": {
+	"2022.04.13_005_map_patient_32_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"2022.04.13_005_map_2_2.png": {
+	"2022.04.13_005_map_patient_32_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"2022.04.13_005_map_2_3.png": {
+	"2022.04.13_005_map_patient_32_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"2022.04.13_006_map_0_0.png": {
+	"2022.04.13_006_map_patient_33_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.04.13_006_map_0_1.png": {
+	"2022.04.13_006_map_patient_33_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.04.13_006_map_0_2.png": {
+	"2022.04.13_006_map_patient_33_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.04.13_006_map_0_3.png": {
+	"2022.04.13_006_map_patient_33_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.04.14_003_map_4_0.png": {
+	"2022.04.14_003_map_patient_34_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"2022.04.14_003_map_4_1.png": {
+	"2022.04.14_003_map_patient_34_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"2022.04.14_003_map_4_2.png": {
+	"2022.04.14_003_map_patient_34_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"2022.04.14_003_map_4_3.png": {
+	"2022.04.14_003_map_patient_34_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"2022.06.01_001_map_0_0.png": {
+	"2022.06.01_001_map_patient_35_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.06.01_001_map_0_1.png": {
+	"2022.06.01_001_map_patient_35_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.06.01_001_map_0_2.png": {
+	"2022.06.01_001_map_patient_35_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.06.01_001_map_0_3.png": {
+	"2022.06.01_001_map_patient_35_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.06.01_001_map_0_4.png": {
+	"2022.06.01_001_map_patient_35_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"2022.06.01_001_map_0_5.png": {
+	"2022.06.01_001_map_patient_35_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2022.06.01_001_map_0_6.png": {
+	"2022.06.01_001_map_patient_35_0.9% NaCl.png": {
 		"gt_result": 0,
 		"reagent": "0.9% NaCl",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"2022.07.08_001_map_5_0.png": {
+	"2022.07.08_001_map_patient_36_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"2022.07.08_001_map_5_1.png": {
+	"2022.07.08_001_map_patient_36_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"2022.07.08_001_map_5_3.png": {
+	"2022.07.08_001_map_patient_36_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"2022.07.08_001_map_5_4.png": {
+	"2022.07.08_001_map_patient_36_0.9% NaCl.png": {
 		"gt_result": 0,
 		"reagent": "0.9% NaCl",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"2022.10.26_009_2_map_4_0.png": {
+	"2022.10.26_009_2_map_patient_37_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"2022.10.26_009_2_map_4_1.png": {
+	"2022.10.26_009_2_map_patient_37_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"2022.10.26_009_2_map_4_2.png": {
+	"2022.10.26_009_2_map_patient_37_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"2022.10.26_009_2_map_4_3.png": {
+	"2022.10.26_009_2_map_patient_37_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"2022.10.26_009_2_map_4_4.png": {
+	"2022.10.26_009_2_map_patient_37_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"2022.10.26_009_2_map_4_5.png": {
+	"2022.10.26_009_2_map_patient_37_K.png": {
 		"gt_result": 1,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"2022.10.26_009_2_map_4_6.png": {
+	"2022.10.26_009_2_map_patient_37_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 4,
-		"reagent_idx": 6
+		"row_idx": 4,
+		"col_idx": 6
 	},
-	"2022.10.26_007_2_map_5_0.png": {
+	"2022.10.26_007_2_map_patient_38_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"2022.10.26_007_2_map_5_1.png": {
+	"2022.10.26_007_2_map_patient_38_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"2022.10.26_007_2_map_5_2.png": {
+	"2022.10.26_007_2_map_patient_38_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"2022.10.26_007_2_map_5_3.png": {
+	"2022.10.26_007_2_map_patient_38_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"2022.10.26_007_2_map_5_4.png": {
+	"2022.10.26_007_2_map_patient_38_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"2022.10.26_007_2_map_5_5.png": {
+	"2022.10.26_007_2_map_patient_38_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"2022.10.26_008_2_map_0_0.png": {
+	"2022.10.26_008_2_map_patient_39_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.10.26_008_2_map_0_1.png": {
+	"2022.10.26_008_2_map_patient_39_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.10.26_008_2_map_0_2.png": {
+	"2022.10.26_008_2_map_patient_39_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.10.26_008_2_map_0_3.png": {
+	"2022.10.26_008_2_map_patient_39_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.10.26_008_2_map_0_4.png": {
+	"2022.10.26_008_2_map_patient_39_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"2022.10.26_008_2_map_0_5.png": {
+	"2022.10.26_008_2_map_patient_39_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2022.10.21_004_map_1_0.png": {
+	"2022.10.21_004_map_patient_40_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 1,
-		"reagent_idx": 0
+		"row_idx": 1,
+		"col_idx": 0
 	},
-	"2022.10.21_004_map_1_1.png": {
+	"2022.10.21_004_map_patient_40_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 1,
-		"reagent_idx": 1
+		"row_idx": 1,
+		"col_idx": 1
 	},
-	"2022.10.21_004_map_1_2.png": {
+	"2022.10.21_004_map_patient_40_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 1,
-		"reagent_idx": 2
+		"row_idx": 1,
+		"col_idx": 2
 	},
-	"2022.10.21_004_map_1_3.png": {
+	"2022.10.21_004_map_patient_40_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 1,
-		"reagent_idx": 3
+		"row_idx": 1,
+		"col_idx": 3
 	},
-	"2022.10.21_004_map_1_4.png": {
+	"2022.10.21_004_map_patient_40_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 1,
-		"reagent_idx": 4
+		"row_idx": 1,
+		"col_idx": 4
 	},
-	"2022.10.21_004_map_1_5.png": {
+	"2022.10.21_004_map_patient_40_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 1,
-		"reagent_idx": 5
+		"row_idx": 1,
+		"col_idx": 5
 	},
-	"2022.10.21_005_map_3_0.png": {
+	"2022.10.21_005_map_patient_41_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"2022.10.21_005_map_3_1.png": {
+	"2022.10.21_005_map_patient_41_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"2022.10.21_005_map_3_2.png": {
+	"2022.10.21_005_map_patient_41_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"2022.10.21_005_map_3_3.png": {
+	"2022.10.21_005_map_patient_41_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"2022.10.21_005_map_3_4.png": {
+	"2022.10.21_005_map_patient_41_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"2022.10.21_005_map_3_5.png": {
+	"2022.10.21_005_map_patient_41_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"2022.10.21_005_map_3_6.png": {
+	"2022.10.21_005_map_patient_41_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 3,
-		"reagent_idx": 6
+		"row_idx": 3,
+		"col_idx": 6
 	},
-	"2022.10.20_001_map_3_0.png": {
+	"2022.10.20_001_map_patient_42_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"2022.10.20_001_map_3_1.png": {
+	"2022.10.20_001_map_patient_42_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"2022.10.20_001_map_3_2.png": {
+	"2022.10.20_001_map_patient_42_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"2022.10.20_001_map_3_3.png": {
+	"2022.10.20_001_map_patient_42_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"2022.10.20_001_map_3_4.png": {
+	"2022.10.20_001_map_patient_42_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"2022.10.20_001_map_3_5.png": {
+	"2022.10.20_001_map_patient_42_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"2022.10.26_006_2_map_2_0.png": {
+	"2022.10.26_006_2_map_patient_43_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"2022.10.26_006_2_map_2_1.png": {
+	"2022.10.26_006_2_map_patient_43_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"2022.10.26_006_2_map_2_2.png": {
+	"2022.10.26_006_2_map_patient_43_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"2022.10.26_006_2_map_2_3.png": {
+	"2022.10.26_006_2_map_patient_43_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"2022.10.26_006_2_map_2_4.png": {
+	"2022.10.26_006_2_map_patient_43_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"2022.10.26_006_2_map_2_5.png": {
+	"2022.10.26_006_2_map_patient_43_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"2022.10.26_006_1_map_0_0.png": {
+	"2022.10.26_006_1_map_patient_44_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.10.26_006_1_map_0_1.png": {
+	"2022.10.26_006_1_map_patient_44_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.10.26_006_1_map_0_2.png": {
+	"2022.10.26_006_1_map_patient_44_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.10.26_006_1_map_0_3.png": {
+	"2022.10.26_006_1_map_patient_44_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.10.26_006_1_map_0_4.png": {
+	"2022.10.26_006_1_map_patient_44_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"2022.10.26_006_1_map_0_5.png": {
+	"2022.10.26_006_1_map_patient_44_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2022.04.14_002_map_5_0.png": {
+	"2022.04.14_002_map_patient_45_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"2022.04.14_002_map_5_1.png": {
+	"2022.04.14_002_map_patient_45_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"2022.04.14_002_map_5_2.png": {
+	"2022.04.14_002_map_patient_45_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"2022.04.14_002_map_5_3.png": {
+	"2022.04.14_002_map_patient_45_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"2022.10.26_004_1_map_5_0.png": {
+	"2022.10.26_004_1_map_patient_46_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"2022.10.26_004_1_map_5_1.png": {
+	"2022.10.26_004_1_map_patient_46_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"2022.10.26_004_1_map_5_2.png": {
+	"2022.10.26_004_1_map_patient_46_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"2022.10.26_004_1_map_5_3.png": {
+	"2022.10.26_004_1_map_patient_46_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"2022.10.26_004_1_map_5_4.png": {
+	"2022.10.26_004_1_map_patient_46_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"2022.10.26_004_1_map_5_5.png": {
+	"2022.10.26_004_1_map_patient_46_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"2022.10.26_001_1_map_1_0.png": {
+	"2022.10.26_001_1_map_patient_47_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 1,
-		"reagent_idx": 0
+		"row_idx": 1,
+		"col_idx": 0
 	},
-	"2022.10.26_001_1_map_1_1.png": {
+	"2022.10.26_001_1_map_patient_47_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 1,
-		"reagent_idx": 1
+		"row_idx": 1,
+		"col_idx": 1
 	},
-	"2022.10.26_001_1_map_1_2.png": {
+	"2022.10.26_001_1_map_patient_47_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 1,
-		"reagent_idx": 2
+		"row_idx": 1,
+		"col_idx": 2
 	},
-	"2022.10.26_001_1_map_1_3.png": {
+	"2022.10.26_001_1_map_patient_47_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 1,
-		"reagent_idx": 3
+		"row_idx": 1,
+		"col_idx": 3
 	},
-	"2022.10.26_001_1_map_1_4.png": {
+	"2022.10.26_001_1_map_patient_47_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 1,
-		"reagent_idx": 4
+		"row_idx": 1,
+		"col_idx": 4
 	},
-	"2022.10.26_001_1_map_1_5.png": {
+	"2022.10.26_001_1_map_patient_47_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 1,
-		"reagent_idx": 5
+		"row_idx": 1,
+		"col_idx": 5
 	},
-	"2022.04.14_006_map_4_0.png": {
+	"2022.04.14_006_map_patient_48_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"2022.04.14_006_map_4_1.png": {
+	"2022.04.14_006_map_patient_48_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"2022.04.14_006_map_4_2.png": {
+	"2022.04.14_006_map_patient_48_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"2022.04.14_006_map_4_3.png": {
+	"2022.04.14_006_map_patient_48_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"2022.04.13_002_map_3_0.png": {
+	"2022.04.13_002_map_patient_49_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"2022.04.13_002_map_3_1.png": {
+	"2022.04.13_002_map_patient_49_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"2022.04.13_002_map_3_2.png": {
+	"2022.04.13_002_map_patient_49_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"2022.04.13_002_map_3_3.png": {
+	"2022.04.13_002_map_patient_49_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"2022.10.26_009_1_map_0_0.png": {
+	"2022.10.26_009_1_map_patient_50_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.10.26_009_1_map_0_1.png": {
+	"2022.10.26_009_1_map_patient_50_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.10.26_009_1_map_0_2.png": {
+	"2022.10.26_009_1_map_patient_50_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.10.26_009_1_map_0_3.png": {
+	"2022.10.26_009_1_map_patient_50_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.10.26_009_1_map_0_4.png": {
+	"2022.10.26_009_1_map_patient_50_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"2022.10.26_009_1_map_0_5.png": {
+	"2022.10.26_009_1_map_patient_50_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"2022.10.26_002_2_map_4_0.png": {
+	"2022.10.26_002_2_map_patient_51_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"2022.10.26_002_2_map_4_1.png": {
+	"2022.10.26_002_2_map_patient_51_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"2022.10.26_002_2_map_4_2.png": {
+	"2022.10.26_002_2_map_patient_51_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"2022.10.26_002_2_map_4_3.png": {
+	"2022.10.26_002_2_map_patient_51_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"2022.10.26_002_2_map_4_4.png": {
+	"2022.10.26_002_2_map_patient_51_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"2022.10.26_002_2_map_4_5.png": {
+	"2022.10.26_002_2_map_patient_51_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"2022.10.21_001_map_5_0.png": {
+	"2022.10.21_001_map_patient_52_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"2022.10.21_001_map_5_1.png": {
+	"2022.10.21_001_map_patient_52_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"2022.10.21_001_map_5_2.png": {
+	"2022.10.21_001_map_patient_52_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"2022.10.21_001_map_5_3.png": {
+	"2022.10.21_001_map_patient_52_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"2022.10.21_001_map_5_4.png": {
+	"2022.10.21_001_map_patient_52_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"2022.10.21_001_map_5_5.png": {
+	"2022.10.21_001_map_patient_52_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"2022.10.26_002_1_map_1_0.png": {
+	"2022.10.26_002_1_map_patient_53_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 1,
-		"reagent_idx": 0
+		"row_idx": 1,
+		"col_idx": 0
 	},
-	"2022.10.26_002_1_map_1_1.png": {
+	"2022.10.26_002_1_map_patient_53_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 1,
-		"reagent_idx": 1
+		"row_idx": 1,
+		"col_idx": 1
 	},
-	"2022.10.26_002_1_map_1_2.png": {
+	"2022.10.26_002_1_map_patient_53_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 1,
-		"reagent_idx": 2
+		"row_idx": 1,
+		"col_idx": 2
 	},
-	"2022.10.26_002_1_map_1_3.png": {
+	"2022.10.26_002_1_map_patient_53_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 1,
-		"reagent_idx": 3
+		"row_idx": 1,
+		"col_idx": 3
 	},
-	"2022.10.26_002_1_map_1_4.png": {
+	"2022.10.26_002_1_map_patient_53_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 1,
-		"reagent_idx": 4
+		"row_idx": 1,
+		"col_idx": 4
 	},
-	"2022.10.26_002_1_map_1_5.png": {
+	"2022.10.26_002_1_map_patient_53_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 1,
-		"reagent_idx": 5
+		"row_idx": 1,
+		"col_idx": 5
 	},
-	"2022.04.13_003_map_0_0.png": {
+	"2022.04.13_003_map_patient_54_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"2022.04.13_003_map_0_1.png": {
+	"2022.04.13_003_map_patient_54_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"2022.04.13_003_map_0_2.png": {
+	"2022.04.13_003_map_patient_54_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"2022.04.13_003_map_0_3.png": {
+	"2022.04.13_003_map_patient_54_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"2022.10.26_007_1_map_3_0.png": {
+	"2022.10.26_007_1_map_patient_55_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"2022.10.26_007_1_map_3_1.png": {
+	"2022.10.26_007_1_map_patient_55_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"2022.10.26_007_1_map_3_2.png": {
+	"2022.10.26_007_1_map_patient_55_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"2022.10.26_007_1_map_3_3.png": {
+	"2022.10.26_007_1_map_patient_55_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"2022.10.26_007_1_map_3_4.png": {
+	"2022.10.26_007_1_map_patient_55_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"2022.10.26_007_1_map_3_5.png": {
+	"2022.10.26_007_1_map_patient_55_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"2022.10.21_003_map_5_0.png": {
+	"2022.10.21_003_map_patient_56_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"2022.10.21_003_map_5_1.png": {
+	"2022.10.21_003_map_patient_56_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"2022.10.21_003_map_5_2.png": {
+	"2022.10.21_003_map_patient_56_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"2022.10.21_003_map_5_3.png": {
+	"2022.10.21_003_map_patient_56_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"2022.10.21_003_map_5_4.png": {
+	"2022.10.21_003_map_patient_56_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"2022.10.21_003_map_5_5.png": {
+	"2022.10.21_003_map_patient_56_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"2022.10.21_003_map_5_6.png": {
+	"2022.10.21_003_map_patient_56_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 5,
-		"reagent_idx": 6
+		"row_idx": 5,
+		"col_idx": 6
 	},
-	"2022.10.26_005_1_map_5_0.png": {
+	"2022.10.26_005_1_map_patient_57_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"2022.10.26_005_1_map_5_1.png": {
+	"2022.10.26_005_1_map_patient_57_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"2022.10.26_005_1_map_5_2.png": {
+	"2022.10.26_005_1_map_patient_57_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"2022.10.26_005_1_map_5_3.png": {
+	"2022.10.26_005_1_map_patient_57_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"2022.10.26_005_1_map_5_4.png": {
+	"2022.10.26_005_1_map_patient_57_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"2022.10.26_005_1_map_5_5.png": {
+	"2022.10.26_005_1_map_patient_57_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"2022.10.26_005_2_map_5_5.png": {
+	"2022.10.26_005_2_map_patient_58_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"2022.10.26_010_1_map_2_0.png": {
+	"2022.10.26_010_1_map_patient_59_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"2022.10.26_010_1_map_2_1.png": {
+	"2022.10.26_010_1_map_patient_59_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"2022.10.26_010_1_map_2_2.png": {
+	"2022.10.26_010_1_map_patient_59_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"2022.10.26_010_1_map_2_3.png": {
+	"2022.10.26_010_1_map_patient_59_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"2022.10.26_010_1_map_2_4.png": {
+	"2022.10.26_010_1_map_patient_59_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"2022.10.26_010_1_map_2_5.png": {
+	"2022.10.26_010_1_map_patient_59_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"2022.07.08_002_map_1_0.png": {
+	"2022.07.08_002_map_patient_60_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 1,
-		"reagent_idx": 0
+		"row_idx": 1,
+		"col_idx": 0
 	},
-	"2022.07.08_002_map_1_1.png": {
+	"2022.07.08_002_map_patient_60_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 1,
-		"reagent_idx": 1
+		"row_idx": 1,
+		"col_idx": 1
 	},
-	"2022.07.08_002_map_1_3.png": {
+	"2022.07.08_002_map_patient_60_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 1,
-		"reagent_idx": 3
+		"row_idx": 1,
+		"col_idx": 3
 	},
-	"2022.07.08_002_map_1_4.png": {
+	"2022.07.08_002_map_patient_60_0.9% NaCl.png": {
 		"gt_result": 0,
 		"reagent": "0.9% NaCl",
-		"patient_idx": 1,
-		"reagent_idx": 4
+		"row_idx": 1,
+		"col_idx": 4
 	},
-	"2022.10.26_001_2_map_5_5.png": {
+	"2022.10.26_001_2_map_patient_61_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"11. abdOAB_3_0.png": {
+	"11. abdOAB_patient_62_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"11. abdOAB_3_1.png": {
+	"11. abdOAB_patient_62_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"11. abdOAB_3_2.png": {
+	"11. abdOAB_patient_62_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"11. abdOAB_3_3.png": {
+	"11. abdOAB_patient_62_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"11. abdOAB_3_4.png": {
+	"11. abdOAB_patient_62_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"11. abdOAB_3_5.png": {
+	"11. abdOAB_patient_62_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"11. CcEeCwKk_2_0.png": {
+	"11. CcEeCwKk_patient_63_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"11. CcEeCwKk_2_1.png": {
+	"11. CcEeCwKk_patient_63_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"11. CcEeCwKk_2_2.png": {
+	"11. CcEeCwKk_patient_63_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"11. CcEeCwKk_2_3.png": {
+	"11. CcEeCwKk_patient_63_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"11. CcEeCwKk_2_4.png": {
+	"11. CcEeCwKk_patient_63_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"11. CcEeCwKk_2_5.png": {
+	"11. CcEeCwKk_patient_63_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"11. CcEeCwKk_2_6.png": {
+	"11. CcEeCwKk_patient_63_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 2,
-		"reagent_idx": 6
+		"row_idx": 2,
+		"col_idx": 6
 	},
-	"12. abdOAB_4_0.png": {
+	"12. abdOAB_patient_64_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"12. abdOAB_4_1.png": {
+	"12. abdOAB_patient_64_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"12. abdOAB_4_2.png": {
+	"12. abdOAB_patient_64_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"12. abdOAB_4_3.png": {
+	"12. abdOAB_patient_64_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"12. abdOAB_4_4.png": {
+	"12. abdOAB_patient_64_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"12. abdOAB_4_5.png": {
+	"12. abdOAB_patient_64_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"12. CcEeCwKk_3_0.png": {
+	"12. CcEeCwKk_patient_65_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"12. CcEeCwKk_3_1.png": {
+	"12. CcEeCwKk_patient_65_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"12. CcEeCwKk_3_2.png": {
+	"12. CcEeCwKk_patient_65_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"12. CcEeCwKk_3_3.png": {
+	"12. CcEeCwKk_patient_65_e.png": {
 		"gt_result": 0,
 		"reagent": "e",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"12. CcEeCwKk_3_4.png": {
+	"12. CcEeCwKk_patient_65_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"12. CcEeCwKk_3_5.png": {
+	"12. CcEeCwKk_patient_65_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"12. CcEeCwKk_3_6.png": {
+	"12. CcEeCwKk_patient_65_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 3,
-		"reagent_idx": 6
+		"row_idx": 3,
+		"col_idx": 6
 	},
-	"13. abdOAB_0_0.png": {
+	"13. abdOAB_patient_66_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"13. abdOAB_0_1.png": {
+	"13. abdOAB_patient_66_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"13. abdOAB_0_2.png": {
+	"13. abdOAB_patient_66_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"13. abdOAB_0_3.png": {
+	"13. abdOAB_patient_66_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"13. abdOAB_0_4.png": {
+	"13. abdOAB_patient_66_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"13. abdOAB_0_5.png": {
+	"13. abdOAB_patient_66_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"13. CcEeCwKk_0_0.png": {
+	"13. CcEeCwKk_patient_67_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"13. CcEeCwKk_0_1.png": {
+	"13. CcEeCwKk_patient_67_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"13. CcEeCwKk_0_2.png": {
+	"13. CcEeCwKk_patient_67_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"13. CcEeCwKk_0_3.png": {
+	"13. CcEeCwKk_patient_67_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"13. CcEeCwKk_0_4.png": {
+	"13. CcEeCwKk_patient_67_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"13. CcEeCwKk_0_5.png": {
+	"13. CcEeCwKk_patient_67_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"13. CcEeCwKk_0_6.png": {
+	"13. CcEeCwKk_patient_67_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"14. abdOAB_0_0.png": {
+	"14. abdOAB_patient_68_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"14. abdOAB_0_1.png": {
+	"14. abdOAB_patient_68_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"14. abdOAB_0_2.png": {
+	"14. abdOAB_patient_68_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"14. abdOAB_0_3.png": {
+	"14. abdOAB_patient_68_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"14. abdOAB_0_4.png": {
+	"14. abdOAB_patient_68_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"14. abdOAB_0_5.png": {
+	"14. abdOAB_patient_68_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"14. CcEeCwKk_4_0.png": {
+	"14. CcEeCwKk_patient_69_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"14. CcEeCwKk_4_1.png": {
+	"14. CcEeCwKk_patient_69_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"14. CcEeCwKk_4_2.png": {
+	"14. CcEeCwKk_patient_69_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"14. CcEeCwKk_4_3.png": {
+	"14. CcEeCwKk_patient_69_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"14. CcEeCwKk_4_4.png": {
+	"14. CcEeCwKk_patient_69_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"14. CcEeCwKk_4_5.png": {
+	"14. CcEeCwKk_patient_69_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"14. CcEeCwKk_4_6.png": {
+	"14. CcEeCwKk_patient_69_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 4,
-		"reagent_idx": 6
+		"row_idx": 4,
+		"col_idx": 6
 	},
-	"15. abdOAB_2_0.png": {
+	"15. abdOAB_patient_70_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"15. abdOAB_2_1.png": {
+	"15. abdOAB_patient_70_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"15. abdOAB_2_2.png": {
+	"15. abdOAB_patient_70_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"15. abdOAB_2_3.png": {
+	"15. abdOAB_patient_70_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"15. abdOAB_2_4.png": {
+	"15. abdOAB_patient_70_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"15. abdOAB_2_5.png": {
+	"15. abdOAB_patient_70_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"15. CcEeCwKk_5_0.png": {
+	"15. CcEeCwKk_patient_71_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"15. CcEeCwKk_5_1.png": {
+	"15. CcEeCwKk_patient_71_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"15. CcEeCwKk_5_2.png": {
+	"15. CcEeCwKk_patient_71_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"15. CcEeCwKk_5_3.png": {
+	"15. CcEeCwKk_patient_71_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"15. CcEeCwKk_5_4.png": {
+	"15. CcEeCwKk_patient_71_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"15. CcEeCwKk_5_5.png": {
+	"15. CcEeCwKk_patient_71_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"15. CcEeCwKk_5_6.png": {
+	"15. CcEeCwKk_patient_71_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 5,
-		"reagent_idx": 6
+		"row_idx": 5,
+		"col_idx": 6
 	},
-	"16. abdOAB_4_0.png": {
+	"16. abdOAB_patient_72_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"16. abdOAB_4_1.png": {
+	"16. abdOAB_patient_72_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"16. abdOAB_4_2.png": {
+	"16. abdOAB_patient_72_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"16. abdOAB_4_3.png": {
+	"16. abdOAB_patient_72_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"16. abdOAB_4_4.png": {
+	"16. abdOAB_patient_72_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"16. abdOAB_4_5.png": {
+	"16. abdOAB_patient_72_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"16. CcEeCwKk_4_0.png": {
+	"16. CcEeCwKk_patient_73_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"16. CcEeCwKk_4_1.png": {
+	"16. CcEeCwKk_patient_73_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"16. CcEeCwKk_4_2.png": {
+	"16. CcEeCwKk_patient_73_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"16. CcEeCwKk_4_3.png": {
+	"16. CcEeCwKk_patient_73_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"16. CcEeCwKk_4_4.png": {
+	"16. CcEeCwKk_patient_73_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"16. CcEeCwKk_4_5.png": {
+	"16. CcEeCwKk_patient_73_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"16. CcEeCwKk_4_6.png": {
+	"16. CcEeCwKk_patient_73_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 4,
-		"reagent_idx": 6
+		"row_idx": 4,
+		"col_idx": 6
 	},
-	"17. abdOAB_5_0.png": {
+	"17. abdOAB_patient_74_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 5,
-		"reagent_idx": 0
+		"row_idx": 5,
+		"col_idx": 0
 	},
-	"17. abdOAB_5_1.png": {
+	"17. abdOAB_patient_74_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 5,
-		"reagent_idx": 1
+		"row_idx": 5,
+		"col_idx": 1
 	},
-	"17. abdOAB_5_2.png": {
+	"17. abdOAB_patient_74_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 5,
-		"reagent_idx": 2
+		"row_idx": 5,
+		"col_idx": 2
 	},
-	"17. abdOAB_5_3.png": {
+	"17. abdOAB_patient_74_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 5,
-		"reagent_idx": 3
+		"row_idx": 5,
+		"col_idx": 3
 	},
-	"17. abdOAB_5_4.png": {
+	"17. abdOAB_patient_74_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 5,
-		"reagent_idx": 4
+		"row_idx": 5,
+		"col_idx": 4
 	},
-	"17. abdOAB_5_5.png": {
+	"17. abdOAB_patient_74_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 5,
-		"reagent_idx": 5
+		"row_idx": 5,
+		"col_idx": 5
 	},
-	"17. CcEeCwKk_2_0.png": {
+	"17. CcEeCwKk_patient_75_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"17. CcEeCwKk_2_1.png": {
+	"17. CcEeCwKk_patient_75_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"17. CcEeCwKk_2_2.png": {
+	"17. CcEeCwKk_patient_75_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"17. CcEeCwKk_2_3.png": {
+	"17. CcEeCwKk_patient_75_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"17. CcEeCwKk_2_4.png": {
+	"17. CcEeCwKk_patient_75_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"17. CcEeCwKk_2_5.png": {
+	"17. CcEeCwKk_patient_75_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"17. CcEeCwKk_2_6.png": {
+	"17. CcEeCwKk_patient_75_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 2,
-		"reagent_idx": 6
+		"row_idx": 2,
+		"col_idx": 6
 	},
-	"18. abdOAB_2_0.png": {
+	"18. abdOAB_patient_76_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 2,
-		"reagent_idx": 0
+		"row_idx": 2,
+		"col_idx": 0
 	},
-	"18. abdOAB_2_1.png": {
+	"18. abdOAB_patient_76_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 2,
-		"reagent_idx": 1
+		"row_idx": 2,
+		"col_idx": 1
 	},
-	"18. abdOAB_2_2.png": {
+	"18. abdOAB_patient_76_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 2,
-		"reagent_idx": 2
+		"row_idx": 2,
+		"col_idx": 2
 	},
-	"18. abdOAB_2_3.png": {
+	"18. abdOAB_patient_76_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 2,
-		"reagent_idx": 3
+		"row_idx": 2,
+		"col_idx": 3
 	},
-	"18. abdOAB_2_4.png": {
+	"18. abdOAB_patient_76_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 2,
-		"reagent_idx": 4
+		"row_idx": 2,
+		"col_idx": 4
 	},
-	"18. abdOAB_2_5.png": {
+	"18. abdOAB_patient_76_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 2,
-		"reagent_idx": 5
+		"row_idx": 2,
+		"col_idx": 5
 	},
-	"18. CcEeCwKk_0_0.png": {
+	"18. CcEeCwKk_patient_77_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"18. CcEeCwKk_0_1.png": {
+	"18. CcEeCwKk_patient_77_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"18. CcEeCwKk_0_2.png": {
+	"18. CcEeCwKk_patient_77_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"18. CcEeCwKk_0_3.png": {
+	"18. CcEeCwKk_patient_77_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"18. CcEeCwKk_0_4.png": {
+	"18. CcEeCwKk_patient_77_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"18. CcEeCwKk_0_5.png": {
+	"18. CcEeCwKk_patient_77_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"18. CcEeCwKk_0_6.png": {
+	"18. CcEeCwKk_patient_77_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"19. abdOAB_3_0.png": {
+	"19. abdOAB_patient_78_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"19. abdOAB_3_1.png": {
+	"19. abdOAB_patient_78_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"19. abdOAB_3_2.png": {
+	"19. abdOAB_patient_78_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"19. abdOAB_3_3.png": {
+	"19. abdOAB_patient_78_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"19. abdOAB_3_4.png": {
+	"19. abdOAB_patient_78_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"19. abdOAB_3_5.png": {
+	"19. abdOAB_patient_78_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"19. CcEeCwKk_4_0.png": {
+	"19. CcEeCwKk_patient_79_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"19. CcEeCwKk_4_1.png": {
+	"19. CcEeCwKk_patient_79_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"19. CcEeCwKk_4_2.png": {
+	"19. CcEeCwKk_patient_79_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"19. CcEeCwKk_4_3.png": {
+	"19. CcEeCwKk_patient_79_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"19. CcEeCwKk_4_4.png": {
+	"19. CcEeCwKk_patient_79_Cw.png": {
 		"gt_result": 1,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"19. CcEeCwKk_4_5.png": {
+	"19. CcEeCwKk_patient_79_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"19. CcEeCwKk_4_6.png": {
+	"19. CcEeCwKk_patient_79_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 4,
-		"reagent_idx": 6
+		"row_idx": 4,
+		"col_idx": 6
 	},
-	"20. abdOAB_0_0.png": {
+	"20. abdOAB_patient_80_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"20. abdOAB_0_1.png": {
+	"20. abdOAB_patient_80_B.png": {
 		"gt_result": 1,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"20. abdOAB_0_2.png": {
+	"20. abdOAB_patient_80_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"20. abdOAB_0_3.png": {
+	"20. abdOAB_patient_80_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"20. abdOAB_0_4.png": {
+	"20. abdOAB_patient_80_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"20. abdOAB_0_5.png": {
+	"20. abdOAB_patient_80_B(III).png": {
 		"gt_result": 0,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"20. CcEeCwKk_0_0.png": {
+	"20. CcEeCwKk_patient_81_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"20. CcEeCwKk_0_1.png": {
+	"20. CcEeCwKk_patient_81_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"20. CcEeCwKk_0_2.png": {
+	"20. CcEeCwKk_patient_81_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"20. CcEeCwKk_0_3.png": {
+	"20. CcEeCwKk_patient_81_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"20. CcEeCwKk_0_4.png": {
+	"20. CcEeCwKk_patient_81_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"20. CcEeCwKk_0_5.png": {
+	"20. CcEeCwKk_patient_81_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"20. CcEeCwKk_0_6.png": {
+	"20. CcEeCwKk_patient_81_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"21. abdOAB_4_0.png": {
+	"21. abdOAB_patient_82_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"21. abdOAB_4_1.png": {
+	"21. abdOAB_patient_82_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"21. abdOAB_4_2.png": {
+	"21. abdOAB_patient_82_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"21. abdOAB_4_3.png": {
+	"21. abdOAB_patient_82_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"21. abdOAB_4_4.png": {
+	"21. abdOAB_patient_82_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"21. abdOAB_4_5.png": {
+	"21. abdOAB_patient_82_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"21. CcEeCwKk_0_1.png": {
+	"21. CcEeCwKk_patient_83_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"21. CcEeCwKk_0_2.png": {
+	"21. CcEeCwKk_patient_83_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"21. CcEeCwKk_0_3.png": {
+	"21. CcEeCwKk_patient_83_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"21. CcEeCwKk_0_4.png": {
+	"21. CcEeCwKk_patient_83_Cw.png": {
 		"gt_result": 1,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"21. CcEeCwKk_0_5.png": {
+	"21. CcEeCwKk_patient_83_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"21. CcEeCwKk_0_6.png": {
+	"21. CcEeCwKk_patient_83_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"21. CcEeCwKk_0_0.png": {
+	"21. CcEeCwKk_patient_83_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"22. abdOAB_4_0.png": {
+	"22. abdOAB_patient_84_A.png": {
 		"gt_result": 1,
 		"reagent": "A",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"22. abdOAB_4_1.png": {
+	"22. abdOAB_patient_84_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"22. abdOAB_4_2.png": {
+	"22. abdOAB_patient_84_D.png": {
 		"gt_result": 0,
 		"reagent": "D",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"22. abdOAB_4_3.png": {
+	"22. abdOAB_patient_84_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"22. abdOAB_4_4.png": {
+	"22. abdOAB_patient_84_A(II).png": {
 		"gt_result": 0,
 		"reagent": "A(II)",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"22. abdOAB_4_5.png": {
+	"22. abdOAB_patient_84_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"22. CcEeCwKk_1_0.png": {
+	"22. CcEeCwKk_patient_85_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 1,
-		"reagent_idx": 0
+		"row_idx": 1,
+		"col_idx": 0
 	},
-	"22. CcEeCwKk_1_1.png": {
+	"22. CcEeCwKk_patient_85_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 1,
-		"reagent_idx": 1
+		"row_idx": 1,
+		"col_idx": 1
 	},
-	"22. CcEeCwKk_1_2.png": {
+	"22. CcEeCwKk_patient_85_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 1,
-		"reagent_idx": 2
+		"row_idx": 1,
+		"col_idx": 2
 	},
-	"22. CcEeCwKk_1_3.png": {
+	"22. CcEeCwKk_patient_85_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 1,
-		"reagent_idx": 3
+		"row_idx": 1,
+		"col_idx": 3
 	},
-	"22. CcEeCwKk_1_4.png": {
+	"22. CcEeCwKk_patient_85_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 1,
-		"reagent_idx": 4
+		"row_idx": 1,
+		"col_idx": 4
 	},
-	"22. CcEeCwKk_1_5.png": {
+	"22. CcEeCwKk_patient_85_K.png": {
 		"gt_result": 1,
 		"reagent": "K",
-		"patient_idx": 1,
-		"reagent_idx": 5
+		"row_idx": 1,
+		"col_idx": 5
 	},
-	"22. CcEeCwKk_1_6.png": {
+	"22. CcEeCwKk_patient_85_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 1,
-		"reagent_idx": 6
+		"row_idx": 1,
+		"col_idx": 6
 	},
-	"23. abdOAB_3_0.png": {
+	"23. abdOAB_patient_86_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"23. abdOAB_3_1.png": {
+	"23. abdOAB_patient_86_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"23. abdOAB_3_2.png": {
+	"23. abdOAB_patient_86_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"23. abdOAB_3_3.png": {
+	"23. abdOAB_patient_86_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"23. abdOAB_3_4.png": {
+	"23. abdOAB_patient_86_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"23. abdOAB_3_5.png": {
+	"23. abdOAB_patient_86_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"23. CcEeCwKk_3_0.png": {
+	"23. CcEeCwKk_patient_87_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 3,
-		"reagent_idx": 0
+		"row_idx": 3,
+		"col_idx": 0
 	},
-	"23. CcEeCwKk_3_1.png": {
+	"23. CcEeCwKk_patient_87_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 3,
-		"reagent_idx": 1
+		"row_idx": 3,
+		"col_idx": 1
 	},
-	"23. CcEeCwKk_3_2.png": {
+	"23. CcEeCwKk_patient_87_E.png": {
 		"gt_result": 1,
 		"reagent": "E",
-		"patient_idx": 3,
-		"reagent_idx": 2
+		"row_idx": 3,
+		"col_idx": 2
 	},
-	"23. CcEeCwKk_3_3.png": {
+	"23. CcEeCwKk_patient_87_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 3,
-		"reagent_idx": 3
+		"row_idx": 3,
+		"col_idx": 3
 	},
-	"23. CcEeCwKk_3_4.png": {
+	"23. CcEeCwKk_patient_87_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 3,
-		"reagent_idx": 4
+		"row_idx": 3,
+		"col_idx": 4
 	},
-	"23. CcEeCwKk_3_5.png": {
+	"23. CcEeCwKk_patient_87_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 3,
-		"reagent_idx": 5
+		"row_idx": 3,
+		"col_idx": 5
 	},
-	"23. CcEeCwKk_3_6.png": {
+	"23. CcEeCwKk_patient_87_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 3,
-		"reagent_idx": 6
+		"row_idx": 3,
+		"col_idx": 6
 	},
-	"24. abdOAB_0_1.png": {
+	"24. abdOAB_patient_88_B.png": {
 		"gt_result": 0,
 		"reagent": "B",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"24. abdOAB_0_2.png": {
+	"24. abdOAB_patient_88_D.png": {
 		"gt_result": 1,
 		"reagent": "D",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"24. abdOAB_0_3.png": {
+	"24. abdOAB_patient_88_O(I).png": {
 		"gt_result": 0,
 		"reagent": "O(I)",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"24. abdOAB_0_4.png": {
+	"24. abdOAB_patient_88_A(II).png": {
 		"gt_result": 1,
 		"reagent": "A(II)",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"24. abdOAB_0_5.png": {
+	"24. abdOAB_patient_88_B(III).png": {
 		"gt_result": 1,
 		"reagent": "B(III)",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"24. abdOAB_0_0.png": {
+	"24. abdOAB_patient_88_A.png": {
 		"gt_result": 0,
 		"reagent": "A",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	},
-	"24. CcEeCwKk_4_0.png": {
+	"24. CcEeCwKk_patient_89_C.png": {
 		"gt_result": 0,
 		"reagent": "C",
-		"patient_idx": 4,
-		"reagent_idx": 0
+		"row_idx": 4,
+		"col_idx": 0
 	},
-	"24. CcEeCwKk_4_1.png": {
+	"24. CcEeCwKk_patient_89_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 4,
-		"reagent_idx": 1
+		"row_idx": 4,
+		"col_idx": 1
 	},
-	"24. CcEeCwKk_4_2.png": {
+	"24. CcEeCwKk_patient_89_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 4,
-		"reagent_idx": 2
+		"row_idx": 4,
+		"col_idx": 2
 	},
-	"24. CcEeCwKk_4_3.png": {
+	"24. CcEeCwKk_patient_89_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 4,
-		"reagent_idx": 3
+		"row_idx": 4,
+		"col_idx": 3
 	},
-	"24. CcEeCwKk_4_4.png": {
+	"24. CcEeCwKk_patient_89_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 4,
-		"reagent_idx": 4
+		"row_idx": 4,
+		"col_idx": 4
 	},
-	"24. CcEeCwKk_4_5.png": {
+	"24. CcEeCwKk_patient_89_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 4,
-		"reagent_idx": 5
+		"row_idx": 4,
+		"col_idx": 5
 	},
-	"24. CcEeCwKk_4_6.png": {
+	"24. CcEeCwKk_patient_89_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 4,
-		"reagent_idx": 6
+		"row_idx": 4,
+		"col_idx": 6
 	},
-	"25. CcEeCwKk_1_0.png": {
+	"25. CcEeCwKk_patient_90_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 1,
-		"reagent_idx": 0
+		"row_idx": 1,
+		"col_idx": 0
 	},
-	"25. CcEeCwKk_1_1.png": {
+	"25. CcEeCwKk_patient_90_c.png": {
 		"gt_result": 1,
 		"reagent": "c",
-		"patient_idx": 1,
-		"reagent_idx": 1
+		"row_idx": 1,
+		"col_idx": 1
 	},
-	"25. CcEeCwKk_1_2.png": {
+	"25. CcEeCwKk_patient_90_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 1,
-		"reagent_idx": 2
+		"row_idx": 1,
+		"col_idx": 2
 	},
-	"25. CcEeCwKk_1_3.png": {
+	"25. CcEeCwKk_patient_90_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 1,
-		"reagent_idx": 3
+		"row_idx": 1,
+		"col_idx": 3
 	},
-	"25. CcEeCwKk_1_4.png": {
+	"25. CcEeCwKk_patient_90_Cw.png": {
 		"gt_result": 1,
 		"reagent": "Cw",
-		"patient_idx": 1,
-		"reagent_idx": 4
+		"row_idx": 1,
+		"col_idx": 4
 	},
-	"25. CcEeCwKk_1_5.png": {
+	"25. CcEeCwKk_patient_90_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 1,
-		"reagent_idx": 5
+		"row_idx": 1,
+		"col_idx": 5
 	},
-	"25. CcEeCwKk_1_6.png": {
+	"25. CcEeCwKk_patient_90_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 1,
-		"reagent_idx": 6
+		"row_idx": 1,
+		"col_idx": 6
 	},
-	"26. CcEeCwKk_0_1.png": {
+	"26. CcEeCwKk_patient_91_c.png": {
 		"gt_result": 0,
 		"reagent": "c",
-		"patient_idx": 0,
-		"reagent_idx": 1
+		"row_idx": 0,
+		"col_idx": 1
 	},
-	"26. CcEeCwKk_0_2.png": {
+	"26. CcEeCwKk_patient_91_E.png": {
 		"gt_result": 0,
 		"reagent": "E",
-		"patient_idx": 0,
-		"reagent_idx": 2
+		"row_idx": 0,
+		"col_idx": 2
 	},
-	"26. CcEeCwKk_0_3.png": {
+	"26. CcEeCwKk_patient_91_e.png": {
 		"gt_result": 1,
 		"reagent": "e",
-		"patient_idx": 0,
-		"reagent_idx": 3
+		"row_idx": 0,
+		"col_idx": 3
 	},
-	"26. CcEeCwKk_0_4.png": {
+	"26. CcEeCwKk_patient_91_Cw.png": {
 		"gt_result": 0,
 		"reagent": "Cw",
-		"patient_idx": 0,
-		"reagent_idx": 4
+		"row_idx": 0,
+		"col_idx": 4
 	},
-	"26. CcEeCwKk_0_5.png": {
+	"26. CcEeCwKk_patient_91_K.png": {
 		"gt_result": 0,
 		"reagent": "K",
-		"patient_idx": 0,
-		"reagent_idx": 5
+		"row_idx": 0,
+		"col_idx": 5
 	},
-	"26. CcEeCwKk_0_6.png": {
+	"26. CcEeCwKk_patient_91_k.png": {
 		"gt_result": 1,
 		"reagent": "k",
-		"patient_idx": 0,
-		"reagent_idx": 6
+		"row_idx": 0,
+		"col_idx": 6
 	},
-	"26. CcEeCwKk_0_0.png": {
+	"26. CcEeCwKk_patient_91_C.png": {
 		"gt_result": 1,
 		"reagent": "C",
-		"patient_idx": 0,
-		"reagent_idx": 0
+		"row_idx": 0,
+		"col_idx": 0
 	}
 }

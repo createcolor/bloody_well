@@ -5,7 +5,7 @@ from torchvision import transforms
 import torch
 from pathlib import Path
 import argparse
-
+import numpy as np
 from dataset import DatasetGenerator, ToTensor
 import json
 from test import test
@@ -41,8 +41,9 @@ def test_net(device, net, testloader, thr, print_metrics):
     net.to(device)
     
     print("\nProcessing test dataset:")
-    y_true, y_pred = test(device, net, testloader, threshold=thr, print_metrics=print_metrics)
-    tn, fp, fn, tp = metrics.confusion_matrix(y_true, y_pred).ravel()
+    y_true, y_pred, reagents = test(device, net, testloader, threshold=thr, print_metrics=print_metrics)
+    y_true, y_pred, reagents = np.array(y_true), np.array(y_pred), np.array(reagents)
+    tn, fp, fn, tp = metrics.confusion_matrix(y_true, y_pred, labels=[0, 1]).ravel()
     acc = metrics.accuracy_score(y_true, y_pred)
 
     test_info = {}
@@ -55,7 +56,17 @@ def test_net(device, net, testloader, thr, print_metrics):
     test_info["precision"] = metrics.precision_score(y_true, y_pred, labels=[1, 0])
     test_info["recall"] = metrics.recall_score(y_true, y_pred, labels=[1, 0])
 
-    return test_info
+    reagents_info = {}
+    for i in set(reagents):
+        idx = np.where(reagents == i)
+        tn, fp, fn, tp = metrics.confusion_matrix(y_true[idx], y_pred[idx], labels=[0, 1]).ravel()
+        reagents_info.update({i : {"accuracy" : float(metrics.accuracy_score(y_true[idx], y_pred[idx]))}})
+        reagents_info[i]["tn"] = int(tn)
+        reagents_info[i]["fp"] = int(fp)
+        reagents_info[i]["fn"] = int(fn)
+        reagents_info[i]["tp"] = int(tp)
+
+    return test_info, reagents_info
 
 
 def get_loader(path_to_dataset, markup_path, transforms_list, batch_size=1):
@@ -85,11 +96,10 @@ if __name__ == "__main__":
     net, transforms_list = get_net_model(config["architecture"])
     testloader = get_loader(path2dataset, test_markup, transforms_list)
 
-    test_info = test_net(device, net, testloader, threshold, config["print_comments"])
+    test_info, reagents_info = test_net(device, net, testloader, threshold, config["print_comments"])
 
     if config["print_comments"]:
-        for k in test_info.keys():
-            print(f"{k}: {test_info[k]}")
+        print(json.dumps(reagents_info, indent="\t"))
 
     with open(config["results"], 'a+', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
