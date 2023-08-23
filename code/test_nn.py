@@ -65,6 +65,7 @@ def test_net(device, net, testloader, thr, print_metrics):
         reagents_info[i]["fp"] = int(fp)
         reagents_info[i]["fn"] = int(fn)
         reagents_info[i]["tp"] = int(tp)
+        print (i, " : ", tn + fp + fn + tp)
 
     return test_info, reagents_info
 
