@@ -15,6 +15,7 @@ Reagents info:
 Reagent | O(I) | A | A(II) | B | B(III) | D | C | c | Cw | E | e | K | k | 0.9% NaCl 
 --------|------|---|-------|---|--------|---|---|---|----|---|---|---|---|-----------
 Number of wells| 38 | 47 | 38 | 47 | 38 | 48 | 40 | 40 | 34 | 40 | 40 | 46 | 29 | 4 
+Type | control | test | control | test | control | test | test | test | test | test | test | test | test | test |
 DenseNet201 accuracy, %| 97.4 | 100 | 100 | 100 | 100 | 100 | 100 | 95.0 | 94.1 | 100 | 90.0 | 100 | 100 | 100 
 DenseNet201 accuracy, %| 100 | 100 | 100 | 100 | 97.4 | 100 | 100 | 95.0 | 94.1 | 100 | 85.0 | 97.8 | 100 | 100 
 
