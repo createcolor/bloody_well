@@ -56,16 +56,15 @@ def test_net(device, net, testloader, thr, print_metrics):
     test_info["precision"] = metrics.precision_score(y_true, y_pred, labels=[1, 0])
     test_info["recall"] = metrics.recall_score(y_true, y_pred, labels=[1, 0])
 
-    reagents_info = {}
-    for i in set(reagents):
+    reagents_info = []
+    reag_list = list(set(reagents))
+    reag_list.sort()
+    for i in reag_list:
         idx = np.where(reagents == i)
-        tn, fp, fn, tp = metrics.confusion_matrix(y_true[idx], y_pred[idx], labels=[0, 1]).ravel()
-        reagents_info.update({i : {"accuracy" : float(metrics.accuracy_score(y_true[idx], y_pred[idx]))}})
-        reagents_info[i]["tn"] = int(tn)
-        reagents_info[i]["fp"] = int(fp)
-        reagents_info[i]["fn"] = int(fn)
-        reagents_info[i]["tp"] = int(tp)
-        print (i, " : ", tn + fp + fn + tp)
+        acc = float(metrics.accuracy_score(y_true[idx], y_pred[idx]))
+        reagents_info.append(acc)
+        if print_metrics:
+            print("reagent", i, "accuracy:", acc)
 
     return test_info, reagents_info
 
@@ -99,12 +98,11 @@ if __name__ == "__main__":
 
     test_info, reagents_info = test_net(device, net, testloader, threshold, config["print_comments"])
 
-    if config["print_comments"]:
-        print(json.dumps(reagents_info, indent="\t"))
-
     with open(config["results"], 'a+', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
                                 quotechar='\"', quoting=csv.QUOTE_MINIMAL)
-        writer.writerow([net_name, test_info["threshold"], test_info["accuracy"],\
+        row = [net_name, test_info["threshold"], test_info["accuracy"],\
                          test_info["recall"], test_info["precision"], test_info["tp"], \
-                         test_info["tn"], test_info["fp"], test_info["fn"]])
+                         test_info["tn"], test_info["fp"], test_info["fn"]]
+        row.extend(reagents_info)
+        writer.writerow(row)

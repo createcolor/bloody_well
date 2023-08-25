@@ -1,6 +1,7 @@
 import torch
 import numpy as np
 from sklearn import metrics
+from tqdm import tqdm
 
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
@@ -10,7 +11,7 @@ def run_net(device, net, testloader, thr=0.5):
 
     net.eval()
     with torch.no_grad():
-        for data in testloader:
+        for data in tqdm(testloader):
             imgs, labels, name, reag = data['image'].to(device).float(), data['agg_type'].to(device), \
                 data['name'][0], data['reagent']
 
