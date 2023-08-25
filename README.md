@@ -17,22 +17,22 @@ Reagents info:
   <tr>
     <th rowspan="2">Reagents</th>
     <th colspan="2">AB0</th>
-    <th colspan="2">Kell</th>
     <th>Rh</th>
     <th colspan="5">Rh: minor</th>
+    <th colspan="2">Kell</th>
     <th colspan="4">Control</th>
   </tr>
   <tr>
     <th>A</th>
     <th>B</th>
-    <th>K</th>
-    <th>k</th>
     <th>D</th>
     <th>E</th>
     <th>e</th>
     <th>C</th>
     <th>c</th>
     <th>Cw</th>
+    <th>K</th>
+    <th>k</th>
     <th>NaCl 0.9%</th>
     <th>O(I)</th>
     <th>A(II)</th>
@@ -41,48 +41,58 @@ Reagents info:
 </thead>
 <tbody>
   <tr>
-    <td>DenseNet201</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Number of wells</td>
+    <td>47</td>
+    <td>47</td>
+    <td>48</td>
+    <td>34</td>
+    <td>40</td>
+    <td>40</td>
+    <td>40</td>
+    <td>34</td>
+    <td>46</td>
+    <td>29</td>
+    <td>4</td>
+    <td>38</td>
+    <td>38</td>
+    <td>38</td>
   </tr>
   <tr>
-    <td>EfficientNetV2L</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>DenseNet201, %</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>90.0</td>
+    <td>100</td>
+    <td>95.0</td>
+    <td>94.1</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>97.4</td>
+    <td>100</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>EfficientNetV2L, %</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>85.0</td>
+    <td>100</td>
+    <td>95.0</td>
+    <td>94.1</td>
+    <td>97.8</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>97.4</td>
   </tr>
 </tbody>
 </table>
-
-Reagent | O(I) |^ A | A(II) | B | B(III) | D | C | c | Cw | E | e | K | k | 0.9% NaCl 
---------|------|---|-------|---|--------|---|---|---|----|---|---|---|---|-----------
-Number of wells| 38 | 47 | 38 | 47 | 38 | 48 | 40 | 40 | 34 | 40 | 40 | 46 | 29 | 4 
-Type | control | test | control | test | control | test | test | test | test | test | test | test | test | test |
-DenseNet201 accuracy, %| 97.4 | 100 | 100 | 100 | 100 | 100 | 100 | 95.0 | 94.1 | 100 | 90.0 | 100 | 100 | 100 
-DenseNet201 accuracy, %| 100 | 100 | 100 | 100 | 97.4 | 100 | 100 | 95.0 | 94.1 | 100 | 85.0 | 97.8 | 100 | 100 
 
 # Availability
 
