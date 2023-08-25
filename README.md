@@ -12,6 +12,90 @@ Bloody Well is the latest dataset for the agglutination reaction classification 
 
 Reagents info:
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Reagents</th>
+    <th class="tg-c3ow">AB0</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">Kell</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">Rh</th>
+    <th class="tg-c3ow">Rh: minor</th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-c3ow">Control</th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Reagents</td>
+    <td class="tg-0pky">A</td>
+    <td class="tg-0pky">B</td>
+    <td class="tg-0pky">K</td>
+    <td class="tg-0pky">k</td>
+    <td class="tg-0pky">D</td>
+    <td class="tg-0pky">E</td>
+    <td class="tg-0pky">e</td>
+    <td class="tg-0pky">C</td>
+    <td class="tg-0pky">c</td>
+    <td class="tg-0pky">Cw</td>
+    <td class="tg-0pky">NaCl 0.9%</td>
+    <td class="tg-0pky">O(I)</td>
+    <td class="tg-0pky">A(II)</td>
+    <td class="tg-0pky">B(III)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">DenseNet201</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">EfficientNetV2L</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
 Reagent | O(I) |^ A | A(II) | B | B(III) | D | C | c | Cw | E | e | K | k | 0.9% NaCl 
 --------|------|---|-------|---|--------|---|---|---|----|---|---|---|---|-----------
 Number of wells| 38 | 47 | 38 | 47 | 38 | 48 | 40 | 40 | 34 | 40 | 40 | 46 | 29 | 4 
