@@ -11,7 +11,7 @@ Bloody Well is the latest dataset for the agglutination reaction classification 
 * Difficult cases
 
 Reagents info:
-
+ | AB0 | D | C | c | Cw | E | e | K | k | 0.9% NaCl 
 Reagent | O(I) | A | A(II) | B | B(III) | D | C | c | Cw | E | e | K | k | 0.9% NaCl 
 --------|------|---|-------|---|--------|---|---|---|----|---|---|---|---|-----------
 Number of wells| 38 | 47 | 38 | 47 | 38 | 48 | 40 | 40 | 34 | 40 | 40 | 46 | 29 | 4 
