@@ -62,7 +62,7 @@ Reagents info:
   </tr>
   <tr>
     <td>DenseNet201 accuracy, %</td>
-    <td>98</td>
+    <td>98.3</td>
     <td>100</td>
     <td>100</td>
     <td>100</td>
@@ -80,7 +80,7 @@ Reagents info:
   </tr>
   <tr>
     <td>EfficientNetV2L accuracy, %</td>
-    <td>98</td>
+    <td>97.7</td>
     <td>100</td>
     <td>100</td>
     <td>100</td>
