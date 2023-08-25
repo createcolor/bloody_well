@@ -16,6 +16,7 @@ Reagents info:
 <thead>
   <tr>
     <th rowspan="2">Reagents</th>
+    <th></th>
     <th colspan="2">AB0</th>
     <th>Rh</th>
     <th colspan="5">Rh: minor</th>
@@ -23,6 +24,7 @@ Reagents info:
     <th colspan="4">Control</th>
   </tr>
   <tr>
+    <th>Total</th>
     <th>A</th>
     <th>B</th>
     <th>D</th>
@@ -42,6 +44,7 @@ Reagents info:
 <tbody>
   <tr>
     <td>Number of wells</td>
+    <td>529</td>
     <td>47</td>
     <td>47</td>
     <td>48</td>
@@ -58,7 +61,8 @@ Reagents info:
     <td>38</td>
   </tr>
   <tr>
-    <td>DenseNet201, %</td>
+    <td>DenseNet201 accuracy, %</td>
+    <td>98</td>
     <td>100</td>
     <td>100</td>
     <td>100</td>
@@ -75,7 +79,8 @@ Reagents info:
     <td>100</td>
   </tr>
   <tr>
-    <td>EfficientNetV2L, %</td>
+    <td>EfficientNetV2L accuracy, %</td>
+    <td>98</td>
     <td>100</td>
     <td>100</td>
     <td>100</td>
