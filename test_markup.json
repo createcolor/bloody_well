@@ -1,0 +1,3176 @@
+{
+	"0_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"0_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"0_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"0_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"0_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"1_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"1_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"1_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"1_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"1_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"1_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"2_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"2_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"2_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"2_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"2_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"2_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"2_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"3_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"3_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"3_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"3_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"3_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"3_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"4_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"4_1.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"4_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"4_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"4_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"4_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"4_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"5_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"5_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"5_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"5_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"5_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"5_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"6_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"6_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"6_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"6_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"6_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"6_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"6_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 3,
+		"col_idx": 6
+	},
+	"7_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"7_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"7_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"7_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"7_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"7_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"8_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"8_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"8_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"8_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"8_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"8_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"8_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"9_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"9_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"9_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"9_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"9_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"9_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"10_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"10_1.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"10_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"10_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"10_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"10_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"10_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 4,
+		"col_idx": 6
+	},
+	"11_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"11_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"11_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"11_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"11_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"11_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"12_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"12_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"12_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"12_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"12_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"12_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"12_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"13_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"13_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"13_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"13_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"13_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"13_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"14_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"14_1.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"14_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"14_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"14_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"14_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"14_6.png": {
+		"gt_result": 0,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"15_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"15_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"15_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"15_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"15_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"15_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"16_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"16_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"16_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"16_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"16_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"16_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"16_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 4,
+		"col_idx": 6
+	},
+	"17_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"17_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"17_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"17_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"17_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"17_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"18_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"18_1.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"18_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"18_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"18_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"18_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"18_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 2,
+		"col_idx": 6
+	},
+	"19_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"19_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"19_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"19_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"19_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"19_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"20_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"20_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"20_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"20_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"21_0.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"21_1.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"21_2.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"21_3.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"21_4.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"21_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"21_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"22_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"22_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"22_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"22_3.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"22_4.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"22_5.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"22_6.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"23_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"23_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"23_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"23_3.png": {
+		"gt_result": 1,
+		"reagent": "K",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"24_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"24_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"24_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"24_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"24_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"24_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"25_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"25_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"25_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"25_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"25_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"25_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"26_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 1,
+		"col_idx": 5
+	},
+	"27_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"28_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"28_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"28_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"28_3.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"29_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"30_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"30_1.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"30_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"30_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"31_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"31_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"31_3.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"31_4.png": {
+		"gt_result": 0,
+		"reagent": "0.9% NaCl",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"32_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"32_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"32_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"32_3.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"33_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"33_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"33_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"33_3.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"34_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"34_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"34_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"34_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"35_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"35_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"35_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"35_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"35_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"35_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"35_6.png": {
+		"gt_result": 0,
+		"reagent": "0.9% NaCl",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"36_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"36_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"36_3.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"36_4.png": {
+		"gt_result": 0,
+		"reagent": "0.9% NaCl",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"37_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"37_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"37_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"37_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"37_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"37_5.png": {
+		"gt_result": 1,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"37_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 4,
+		"col_idx": 6
+	},
+	"38_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"38_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"38_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"38_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"38_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"38_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"39_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"39_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"39_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"39_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"39_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"39_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"40_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 1,
+		"col_idx": 0
+	},
+	"40_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 1,
+		"col_idx": 1
+	},
+	"40_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 1,
+		"col_idx": 2
+	},
+	"40_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 1,
+		"col_idx": 3
+	},
+	"40_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 1,
+		"col_idx": 4
+	},
+	"40_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 1,
+		"col_idx": 5
+	},
+	"41_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"41_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"41_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"41_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"41_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"41_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"41_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 3,
+		"col_idx": 6
+	},
+	"42_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"42_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"42_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"42_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"42_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"42_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"43_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"43_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"43_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"43_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"43_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"43_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"44_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"44_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"44_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"44_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"44_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"44_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"45_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"45_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"45_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"45_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"46_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"46_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"46_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"46_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"46_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"46_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"47_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 1,
+		"col_idx": 0
+	},
+	"47_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 1,
+		"col_idx": 1
+	},
+	"47_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 1,
+		"col_idx": 2
+	},
+	"47_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 1,
+		"col_idx": 3
+	},
+	"47_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 1,
+		"col_idx": 4
+	},
+	"47_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 1,
+		"col_idx": 5
+	},
+	"48_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"48_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"48_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"48_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"49_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"49_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"49_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"49_3.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"50_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"50_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"50_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"50_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"50_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"50_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"51_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"51_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"51_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"51_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"51_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"51_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"52_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"52_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"52_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"52_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"52_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"52_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"53_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 1,
+		"col_idx": 0
+	},
+	"53_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 1,
+		"col_idx": 1
+	},
+	"53_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 1,
+		"col_idx": 2
+	},
+	"53_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 1,
+		"col_idx": 3
+	},
+	"53_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 1,
+		"col_idx": 4
+	},
+	"53_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 1,
+		"col_idx": 5
+	},
+	"54_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"54_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"54_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"54_3.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"55_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"55_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"55_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"55_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"55_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"55_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"56_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"56_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"56_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"56_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"56_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"56_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"56_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 5,
+		"col_idx": 6
+	},
+	"57_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"57_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"57_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"57_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"57_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"57_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"58_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"59_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"59_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"59_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"59_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"59_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"59_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"60_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 1,
+		"col_idx": 0
+	},
+	"60_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 1,
+		"col_idx": 1
+	},
+	"60_3.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 1,
+		"col_idx": 3
+	},
+	"60_4.png": {
+		"gt_result": 0,
+		"reagent": "0.9% NaCl",
+		"row_idx": 1,
+		"col_idx": 4
+	},
+	"61_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"62_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"62_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"62_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"62_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"62_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"62_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"63_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"63_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"63_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"63_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"63_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"63_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"63_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 2,
+		"col_idx": 6
+	},
+	"64_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"64_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"64_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"64_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"64_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"64_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"65_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"65_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"65_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"65_3.png": {
+		"gt_result": 0,
+		"reagent": "e",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"65_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"65_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"65_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 3,
+		"col_idx": 6
+	},
+	"66_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"66_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"66_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"66_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"66_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"66_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"67_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"67_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"67_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"67_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"67_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"67_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"67_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"68_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"68_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"68_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"68_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"68_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"68_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"69_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"69_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"69_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"69_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"69_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"69_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"69_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 4,
+		"col_idx": 6
+	},
+	"70_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"70_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"70_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"70_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"70_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"70_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"71_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"71_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"71_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"71_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"71_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"71_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"71_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 5,
+		"col_idx": 6
+	},
+	"72_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"72_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"72_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"72_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"72_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"72_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"73_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"73_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"73_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"73_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"73_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"73_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"73_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 4,
+		"col_idx": 6
+	},
+	"74_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 5,
+		"col_idx": 0
+	},
+	"74_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 5,
+		"col_idx": 1
+	},
+	"74_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 5,
+		"col_idx": 2
+	},
+	"74_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 5,
+		"col_idx": 3
+	},
+	"74_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 5,
+		"col_idx": 4
+	},
+	"74_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 5,
+		"col_idx": 5
+	},
+	"75_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"75_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"75_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"75_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"75_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"75_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"75_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 2,
+		"col_idx": 6
+	},
+	"76_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 2,
+		"col_idx": 0
+	},
+	"76_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 2,
+		"col_idx": 1
+	},
+	"76_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 2,
+		"col_idx": 2
+	},
+	"76_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 2,
+		"col_idx": 3
+	},
+	"76_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 2,
+		"col_idx": 4
+	},
+	"76_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 2,
+		"col_idx": 5
+	},
+	"77_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"77_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"77_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"77_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"77_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"77_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"77_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"78_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"78_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"78_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"78_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"78_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"78_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"79_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"79_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"79_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"79_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"79_4.png": {
+		"gt_result": 1,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"79_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"79_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 4,
+		"col_idx": 6
+	},
+	"80_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"80_1.png": {
+		"gt_result": 1,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"80_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"80_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"80_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"80_5.png": {
+		"gt_result": 0,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"81_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"81_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"81_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"81_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"81_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"81_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"81_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"82_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"82_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"82_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"82_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"82_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"82_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"83_1.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"83_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"83_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"83_4.png": {
+		"gt_result": 1,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"83_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"83_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"83_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"84_0.png": {
+		"gt_result": 1,
+		"reagent": "A",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"84_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"84_2.png": {
+		"gt_result": 0,
+		"reagent": "D",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"84_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"84_4.png": {
+		"gt_result": 0,
+		"reagent": "A(II)",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"84_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"85_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 1,
+		"col_idx": 0
+	},
+	"85_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 1,
+		"col_idx": 1
+	},
+	"85_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 1,
+		"col_idx": 2
+	},
+	"85_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 1,
+		"col_idx": 3
+	},
+	"85_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 1,
+		"col_idx": 4
+	},
+	"85_5.png": {
+		"gt_result": 1,
+		"reagent": "K",
+		"row_idx": 1,
+		"col_idx": 5
+	},
+	"85_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 1,
+		"col_idx": 6
+	},
+	"86_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"86_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"86_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"86_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"86_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"86_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"87_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 3,
+		"col_idx": 0
+	},
+	"87_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 3,
+		"col_idx": 1
+	},
+	"87_2.png": {
+		"gt_result": 1,
+		"reagent": "E",
+		"row_idx": 3,
+		"col_idx": 2
+	},
+	"87_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 3,
+		"col_idx": 3
+	},
+	"87_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 3,
+		"col_idx": 4
+	},
+	"87_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 3,
+		"col_idx": 5
+	},
+	"87_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 3,
+		"col_idx": 6
+	},
+	"88_1.png": {
+		"gt_result": 0,
+		"reagent": "B",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"88_2.png": {
+		"gt_result": 1,
+		"reagent": "D",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"88_3.png": {
+		"gt_result": 0,
+		"reagent": "O(I)",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"88_4.png": {
+		"gt_result": 1,
+		"reagent": "A(II)",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"88_5.png": {
+		"gt_result": 1,
+		"reagent": "B(III)",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"88_0.png": {
+		"gt_result": 0,
+		"reagent": "A",
+		"row_idx": 0,
+		"col_idx": 0
+	},
+	"89_0.png": {
+		"gt_result": 0,
+		"reagent": "C",
+		"row_idx": 4,
+		"col_idx": 0
+	},
+	"89_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 4,
+		"col_idx": 1
+	},
+	"89_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 4,
+		"col_idx": 2
+	},
+	"89_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 4,
+		"col_idx": 3
+	},
+	"89_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 4,
+		"col_idx": 4
+	},
+	"89_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 4,
+		"col_idx": 5
+	},
+	"89_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 4,
+		"col_idx": 6
+	},
+	"90_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 1,
+		"col_idx": 0
+	},
+	"90_1.png": {
+		"gt_result": 1,
+		"reagent": "c",
+		"row_idx": 1,
+		"col_idx": 1
+	},
+	"90_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 1,
+		"col_idx": 2
+	},
+	"90_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 1,
+		"col_idx": 3
+	},
+	"90_4.png": {
+		"gt_result": 1,
+		"reagent": "Cw",
+		"row_idx": 1,
+		"col_idx": 4
+	},
+	"90_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 1,
+		"col_idx": 5
+	},
+	"90_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 1,
+		"col_idx": 6
+	},
+	"91_1.png": {
+		"gt_result": 0,
+		"reagent": "c",
+		"row_idx": 0,
+		"col_idx": 1
+	},
+	"91_2.png": {
+		"gt_result": 0,
+		"reagent": "E",
+		"row_idx": 0,
+		"col_idx": 2
+	},
+	"91_3.png": {
+		"gt_result": 1,
+		"reagent": "e",
+		"row_idx": 0,
+		"col_idx": 3
+	},
+	"91_4.png": {
+		"gt_result": 0,
+		"reagent": "Cw",
+		"row_idx": 0,
+		"col_idx": 4
+	},
+	"91_5.png": {
+		"gt_result": 0,
+		"reagent": "K",
+		"row_idx": 0,
+		"col_idx": 5
+	},
+	"91_6.png": {
+		"gt_result": 1,
+		"reagent": "k",
+		"row_idx": 0,
+		"col_idx": 6
+	},
+	"91_0.png": {
+		"gt_result": 1,
+		"reagent": "C",
+		"row_idx": 0,
+		"col_idx": 0
+	}
+}

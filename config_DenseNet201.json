@@ -1,0 +1,11 @@
+{   
+    "print_comments": true,
+    "threshold": 0.8,
+    "device_type": "cuda:0",
+    "markup" : "test_markup.json",
+    "dataset": "cloud_hiss/test_dataset/",
+    "net_path": "cloud_hiss/models/DenseNet201",
+    "net_name": "DenseNet201",
+    "architecture": "DenseNet201",
+    "results": "results.csv"
+}
